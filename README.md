@@ -1,4 +1,4 @@
-## Description
+## Description:
 Standup Timer is an [Android](http://www.android.com) application
 that acts as a simple, stand-up meeting stop watch.  It can be used to
 ensure your stand-up meeting finishes on time, and gives all the
