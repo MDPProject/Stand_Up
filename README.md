@@ -6,7 +6,7 @@ participants an equal share of time to state their progress.
 
 Standup Timer is free, open source, and available under the Apache V2 license.
 
-## License
+## License:
 Copyright 2011 John Wood
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,12 +21,12 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-## Credits
+## Credits:
 Sounds downloaded from [http://soundbible.com](http://soundbible.com), and modified for this application.   
 - Air horn sound (Sampling Plus 1.0 license) courtesy of guitarguy1985   
 - Bell sound (Attribution 3.0 license) courtesy of Mike Koenig
 
-## Author
+## Author:
 John Wood  
 [john@johnpwood.net](mailto:john@johnpwood.net)  
 [http://johnpwood.net/standup-timer](http://johnpwood.net/standup-timer)   
